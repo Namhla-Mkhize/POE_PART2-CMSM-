@@ -5,3 +5,4 @@ Lecturers will be able to write out their claims on the lecturers claim page
 They will be able to check where there its been approved or rejected by coordinators and managers on the claim status page  
 Coordinators will be able to approve of claims on the coordinatora approvol page
 Managers will be able to approve of claims in the manager approval page 
+All claims and their approval status will be recorderd on a Sql database
